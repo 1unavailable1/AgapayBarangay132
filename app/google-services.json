@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098628410345",
+    "project_id": "agapaybrgy132",
+    "storage_bucket": "agapaybrgy132.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098628410345:android:28b592b280fc5018a1f978",
+        "android_client_info": {
+          "package_name": "com.agapay.brgy132"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0n_GwNY0JsgR-D1tBNnSwBTeePcRcst0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
